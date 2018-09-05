@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_txt">User Login</string>
+    <string name="email_txt">Enter Email</string>
+    <string name="password_txt">Enter Password</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="register_btn">REGISTER</string>
+    <string name="message_txt">Welcome</string>
+    <string name="logout_txt">LOGOUT</string>
+</resources>
